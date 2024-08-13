@@ -10,7 +10,7 @@ info:
   title: API de Compras Governamentais
   termsOfService: 'https://compras.dados.gov.br/docs/home.html'
   contact:
-    email: seges.cginf@economia.gov.br
+    email: seges.delog-cgest@gestao.gov.br
 servers:
 - url: https://compras.dados.gov.br
 
